@@ -1,0 +1,4 @@
+/home/mayamohammed/BigdataLabs/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/WordCount.java
+/home/mayamohammed/BigdataLabs/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/TokenizerMapper.java
+/home/mayamohammed/BigdataLabs/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/IntSumReducer.java
+/home/mayamohammed/BigdataLabs/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/Main.java
