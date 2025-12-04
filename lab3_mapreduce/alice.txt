@@ -1,4 +1,10 @@
-YASSER EL MADANI EL ALAMI
-4BIG DATA
-ANNÉE UNIVERSITAIRE 2025-2026
-Une ligne supplémentaire pour tester
+Hadoop est un framework open source pour le traitement distribué.
+Le traitement distribué avec Hadoop et MapReduce permet de traiter
+de très grands volumes de données sur un cluster de machines.
+
+Le mot Hadoop apparaît plusieurs fois dans ce fichier.
+Hadoop Hadoop Hadoop !
+Le mot données apparaît aussi plusieurs fois : données données données.
+
+Le but est de tester le mapper et le reducer
+écrits en Python pour le WordCount avec Hadoop streaming.
